@@ -1,0 +1,8 @@
+.container-fluid{
+    width: 600px;
+}
+body{
+    background-image: url("https://img.freepik.com/free-vector/gradient-black-backgrounds-with-golden-frames_23-2149150610.jpg?w=1060&t=st=1701171214~exp=1701171814~hmac=7eb1026ede4dd5c5c128dadad7039191c9fb60ee1b7363086001786728cf5eb0");
+
+    background-size:cover;
+}
